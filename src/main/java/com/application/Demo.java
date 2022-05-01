@@ -4,7 +4,7 @@ package com.application;
  * 
  * @author Basavaraj Vijapure
  * This is Demo Java
- *
+ * Hello Merge Conflict issue
  */
 public class Demo {
 
