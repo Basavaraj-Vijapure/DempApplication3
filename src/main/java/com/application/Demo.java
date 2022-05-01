@@ -3,8 +3,7 @@ package com.application;
 /**
  * 
  * @author Basavaraj Vijapure
- * This is Demo Java
- *  try to resolve Merge conflict issue 
+ * @Mahi
  */
 public class Demo {
 
