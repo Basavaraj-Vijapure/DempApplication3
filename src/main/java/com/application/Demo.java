@@ -3,7 +3,8 @@ package com.application;
 /**
  * 
  * @author Basavaraj Vijapure
- * @Mahi
+ * This is Demo Java
+ *  try to resolve Merge conflict issue 
  */
 public class Demo {
 
@@ -11,15 +12,6 @@ public class Demo {
 	
 		Demo d1 = new Demo();
 		
-		
-		/*
-		 *  Hello This java main class performing the operation
-		 *  hijj
-		 *  nmdsnsmns
-		 *  saaacjasS
-		 *  acmcakkjxcakk
-		 *  acckmkjkjaskjkjk
-		 */
 		
 	}
 }
