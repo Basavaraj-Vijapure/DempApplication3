@@ -15,6 +15,14 @@ public class Demo {
 		
 		/*
 		 *  Hello This java main class performing the operation
+<<<<<<< HEAD
+=======
+		 *  hijj
+		 *  nmdsnsmns
+		 *  saaacjasS
+		 *  acmcakkjxcakk
+		 *  acckmkjkjaskjkjk
+>>>>>>> 37fed5e (added new parts)
 		 */
 		
 	}
